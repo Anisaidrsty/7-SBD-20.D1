@@ -1,5 +1,5 @@
 # 7-SBD-20.D1
-1. Memisahkan Data pertable
+1. Memisahkan Data pertable (http://localhost/sbd1/home.php)
 <img width="956" alt="image" src="https://user-images.githubusercontent.com/101643559/172902785-27ab22d4-cf21-4404-9d20-269e930264a1.png">
 Contoh :
 
