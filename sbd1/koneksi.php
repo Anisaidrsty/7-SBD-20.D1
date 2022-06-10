@@ -1,9 +1,9 @@
 <?php
 $host = "localhost";
-$user = "root";
-$pass = "";
+$user = "adminklinik";
+$pass = "312010040";
 $db = "klinik_312010040";
-$con = mysqli_connect('localhost','root','','klinik_312010040');
+$con = mysqli_connect('localhost','adminklinik','312010040','klinik_312010040');
 
 if ($con == false)
 {
